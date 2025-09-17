@@ -1,10 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
 
-
+// Lớp Movie
 class Movie {
     private String title;
-    private int duration;
+    private int duration; // phút
     private String rating;
 
     public Movie(String title, int duration, String rating) {
