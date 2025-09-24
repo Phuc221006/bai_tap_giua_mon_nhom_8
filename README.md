@@ -4,7 +4,7 @@
 
 ### 🔹 Branch `main`
 - UML diagram (ảnh sơ đồ lớp)
-- File `.doc` chứa nội dung báo cáo
+- File `BaoCao_CinemaProject.pdf` chứa nội dung báo cáo
 - Link [Slide](https://www.canva.com/design/DAGZWcxRcHI/YOv8p5ksLBUo8Xmd6UjLtw/edit?utm_content=DAGZWcxRcHI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) chứa bài thuyết trình bằng phần mềm canva
 
 ### 🔹 Branch `code`
